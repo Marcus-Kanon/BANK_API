@@ -31,6 +31,5 @@ namespace BANK_API.Tests
 
             Assert.AreEqual(expected, Account.Balance);
         }
-
     }
 }
